@@ -1,0 +1,37 @@
+[
+  {
+    "amount": 44800,
+    "name": "Michael Novotny",
+    "image_url": "/customers/michael-novotny.png",
+    "email": "michael@novotny.com",
+    "id": "b6ebf4b3-2ac4-4379-940b-4f18cb6515f3"
+  },
+  {
+    "amount": 500,
+    "name": "Delba de Oliveira",
+    "image_url": "/customers/delba-de-oliveira.png",
+    "email": "delba@oliveira.com",
+    "id": "913404a3-859d-425a-b16a-c2f9e6747909"
+  },
+  {
+    "amount": 34577,
+    "name": "Balazs Orban",
+    "image_url": "/customers/balazs-orban.png",
+    "email": "balazs@orban.com",
+    "id": "a0bf6662-c703-433b-aaea-a8e89a892ff6"
+  },
+  {
+    "amount": 54246,
+    "name": "Lee Robinson",
+    "image_url": "/customers/lee-robinson.png",
+    "email": "lee@robinson.com",
+    "id": "0ab2c854-5cfc-471b-8fb0-217f9e717889"
+  },
+  {
+    "amount": 666,
+    "name": "Evil Rabbit",
+    "image_url": "/customers/evil-rabbit.png",
+    "email": "evil@rabbit.com",
+    "id": "59a811d0-6533-4ba9-a58d-f58bc8bf361e"
+  }
+]
